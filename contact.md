@@ -9,14 +9,14 @@ title: Contact - Tobias Schulz
 
 | Name              | Assignment                             | Website                                    |
 | ----------------- | -------------------------------------- | ------------------------------------------ |
-| Tobias Schulz     | project manager, software development  | <http://tobiasschulz.github.io> |
+| Tobias Schulz     | project manager, software development  | <http://www.tobias-schulz.eu/> |
 | Dietmar Smolle    | managing the [database](http://freehal.googlecode.com/svn/trunk/hal2012/lang_de/), documentation/wiki | <http://www.tirol4all.at/> |
 
 ## Contributors
 
 | Name              | Contribution                                     | Website                                    |
 | ----------------- | ------------------------------------------------ | ------------------------------------------ |
-| Elton Chung       | server hosting, BOINC server/database management | <http://elton.tk>                          |
+| Elton Chung       | server hosting, BOINC server/database management | <http://www.elton.tk/>                          |
 | SETI.Germany      | server donations ([currently offline](http://www.seti-germany.de/forum/freehal/3041-serverstatus-fragen-usw-82.html#post215354)) | <http://www.seti-germany.de/> |
 | Planet 3DNow!     | server donations ([currently offline](http://www.seti-germany.de/forum/freehal/3041-serverstatus-fragen-usw-82.html#post215354)) | <http://www.planet3dnow.de/> |
 
