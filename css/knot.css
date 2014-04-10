@@ -62,10 +62,18 @@ a:hover {
 }
 
 .nav {
-    margin: 50px 50px 50px 50px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    margin: 0px;
+    padding: 0px;
 }
 
 .nav a {
     display: block;
     margin: 10px 10px 10px 10px;
+}
+
+.nav .logo {
+    margin-top: -30px;
 }
