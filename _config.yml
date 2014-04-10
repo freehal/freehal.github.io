@@ -1,6 +1,4 @@
-markdown: kramdown
-kramdown:
-  input: GFM
+markdown: rdiscount
 pygments: true
 permalink: /:title
 gems:
