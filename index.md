@@ -9,6 +9,6 @@ The FreeHAL project's mission is to develop an open source computer program whic
 
 You can find the source code in the following Github repositories of Tobias Schulz (@tobiasschulz):
 
-* https://github.com/tobiasschulz/freehal-core
-* https://github.com/tobiasschulz/freehal-android
-* https://github.com/tobiasschulz/freehal-cxx
+* <https://github.com/tobiasschulz/freehal-core>
+* <https://github.com/tobiasschulz/freehal-android>
+* <https://github.com/tobiasschulz/freehal-cxx>
