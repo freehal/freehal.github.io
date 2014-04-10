@@ -7,20 +7,18 @@ title: Contact - Tobias Schulz
 
 ## The FreeHAL Team
 
-* Tobias Schulz (@tobiasschulz) - [Contact](http://tobiasschulz.github.io/contact.html)
-  * project manager
-  * [software](http://freehal.github.com/) development
-* Dietmar Smolle
-  * managing the [database](http://freehal.googlecode.com/svn/trunk/hal2012/lang_de/)
-  * writing the documentation/wiki
+| Name              | Assignment                             | Website                                    |
+| ----------------- | -------------------------------------- | ------------------------------------------ |
+| Tobias Schulz     | project manager, software development  | <http://tobiasschulz.github.io> |
+| Dietmar Smolle    | managing the [database](http://freehal.googlecode.com/svn/trunk/hal2012/lang_de/), documentation/wiki | <http://www.tirol4all.at/> |
 
 ## Contributors
 
-* Elton Chung
-  * server hosting
-  * managing the BOINC server/database
-* SETI.Germany and Planet 3DNow!
-  * donating a server ([currently offline](http://www.seti-germany.de/forum/freehal/3041-serverstatus-fragen-usw-82.html#post215354))
+| Name              | Contribution                                     | Website                                    |
+| ----------------- | ------------------------------------------------ | ------------------------------------------ |
+| Elton Chung       | server hosting, BOINC server/database management | <http://elton.tk>                          |
+| SETI.Germany      | server donations ([currently offline](http://www.seti-germany.de/forum/freehal/3041-serverstatus-fragen-usw-82.html#post215354)) | <http://www.seti-germany.de/> |
+| Planet 3DNow!     | server donations ([currently offline](http://www.seti-germany.de/forum/freehal/3041-serverstatus-fragen-usw-82.html#post215354)) | <http://www.planet3dnow.de/> |
 
 ## Donors
 
