@@ -1,13 +1,14 @@
 ---
 layout: default
-title: Knot&sup3;
+title: About - FreeHAL
 ---
 
-# Knot&sup3;
+# About FreeHAL
 
-Bei Knot&sup3; handelt es sich um ein innovatives Spiel, bei dem man Knoten im dreidimensionalem Raum entweder frei modifizieren oder nach Vorgabe auf Zeit ineinander überführen kann. 
+The FreeHAL project's mission is to develop an open source computer program which very closely imitates human conversation. FreeHAL consists of a server application and several frontends, a cross-platform GUI and a web interface.
 
-Die Idee zu diesem Spiel entstand am Lehrstuhl für Computergrafik, IBDS 1 Dachsbacher in Zusammenarbeit mit der Hochschule für Gestaltung (HfG) in Karlsruhe und wird im Rahmen des Softwareprojekts [Praxis der Softwareentwicklung](http://cg.ivd.kit.edu/lehre/ws2013/pse/index.php) von Studenten des [![KIT]({{site.baseurl}}img/kit.ico "KIT") Karlsruher Instituts für Technologie](http://www.informatik.kit.edu/) umgesetzt.
+You can find the source code in the following Github repositories of Tobias Schulz (@tobiasschulz):
 
-Das Spiel basiert auf dem [XNA-Framework](http://msdn.microsoft.com/en-us/aa937791.aspx) von Microsoft bzw. auf der freien Implementierung [MonoGame-SDL2](https://github.com/flibitijibibo/MonoGame) und ist für Windows, Linux und Mac OS X unter einer [Open-Source-Lizenz]({{site.baseurl}}license.html) verfügbar.
-
+* https://github.com/tobiasschulz/freehal-core
+* https://github.com/tobiasschulz/freehal-android
+* https://github.com/tobiasschulz/freehal-cxx
