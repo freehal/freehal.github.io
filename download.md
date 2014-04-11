@@ -28,35 +28,35 @@ and let it answer incoming chat messages.
 [Java 8 (JDK)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 if you haven't done so already. If you are using Debian, Ubuntu or another Debian-compatible distribution, you need to install the following packages:
 
-```bash
+{% highlight bash %}
 sudo apt-get install git ant openjdk-7-jdk
-```
+{% endhighlight %}
 
   Then open a shell and navigate to a directory where you want to install Freehal. Use the `git` command to clone the
 [freehal-core](http://github.com/freehal/freehal-core)
 repository:
 
-```bash
+{% highlight bash %}
 git clone git://github.com/tobiasschulz/freehal-core.git
-```
+{% endhighlight %}
 
   This will download a full copy of the source code into a directory named `freehal-core`.
 Use [ant](http://ant.apache.org/) to compile it:
 
-```bash
+{% highlight bash %}
 cd freehal-core
 ant
-```
+{% endhighlight %}
 
 If the build was successful, there should be a file called `dist/freehal-dist.jar` which contains the compiled class files.
 
 Now you can try to start Freehal:
 
-```bash
+{% highlight bash %}
 java -jar $DIR/freehal-core/dist/freehal-dist.jar \\
     --base $DIR/freehal-core/ --language de \\
     --xmpp --xmpp-host jabber.org --xmpp-user freehal@jabber.org --xmpp-password [...]
-```
+{% endhighlight %}
 
   Replace `$DIR` with the directory which contains the `freehal-dist` directory created by git,
 and replace `freehal@jabber.org` and `jabber.org` with your Jabber-ID and the corresponding XMPP server.
@@ -66,26 +66,26 @@ If you want Freehal to connect to Google+ or Facebook, use `talk.google.com` or 
 Otherwise it is visible in the process list printed by `ps aux`, for example. You should create a file called `.freehalrc` in your home directory and
 remove the read permission for everyone but yourself:
 
-```bash
+{% highlight bash %}
 echo "xmpp-password = MyPassword" > ~/.freehalrc
 chmod 0600 ~/.freehalrc
-```
+{% endhighlight %}
 
 You can also store other command line parameters in the configuration file, like `base` or `language`. For example `~/.freehalrc` could look like:
 
-```ini
+{% highlight ini %}
 base = /home/username/freehal-core/
 language = de
 xmpp-user = exampleuser@gmail.com
 xmpp-password = MyPassword
 xmpp-host = talk.google.com
-```
+{% endhighlight %}
 
 Then you can connect to Google+ by executing the following command:
 
-```bash
+{% highlight bash %}
 java -jar /home/username/freehal-core/dist/freehal-dist.jar --xmpp
-```
+{% endhighlight %}
 
 
 test3
