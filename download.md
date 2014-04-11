@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Knot&sup3; - Download
+title: FreeHAL - Download
 ---
 # Download
 
