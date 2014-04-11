@@ -1,7 +1,7 @@
 markdown: kramdown
 kramdown:
   input: GFM
-  use_coderay: false
+  use_coderay: true
 
   coderay:
     coderay_line_numbers: 

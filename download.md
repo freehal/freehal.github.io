@@ -88,4 +88,4 @@ java -jar /home/username/freehal-core/dist/freehal-dist.jar --xmpp
 ```
 
 
-test2
+test3
