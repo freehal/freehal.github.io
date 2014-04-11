@@ -1,8 +1,4 @@
-markdown: kramdown
-kramdown:
-  use_coderay: true
-  coderay:
-    coderay_css: class
+markdown: redcarpet
 pygments: true
 permalink: /:title
 gems:
