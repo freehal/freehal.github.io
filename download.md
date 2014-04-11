@@ -87,5 +87,3 @@ Then you can connect to Google+ by executing the following command:
 java -jar /home/username/freehal-core/dist/freehal-dist.jar --xmpp
 {% endhighlight %}
 
-
-test3
