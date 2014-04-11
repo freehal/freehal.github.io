@@ -24,7 +24,7 @@ and let it answer incoming chat messages.
 * <http://github.com/freehal/freehal-android>
 * <http://github.com/freehal/freehal-cxx>
 
-  First install [Git](http://help.github.com/articles/set-up-git), [Ant](http://ant.apache.org/) and
+First install [Git](http://help.github.com/articles/set-up-git), [Ant](http://ant.apache.org/) and
 [Java 8 (JDK)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 if you haven't done so already. If you are using Debian, Ubuntu or another Debian-compatible distribution, you need to install the following packages:
 
