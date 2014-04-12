@@ -27,9 +27,9 @@ The source code is available under the [Gnu GPL v3](license.html), or any later 
 
 A few things about how it all began:
 
-* [our project homepage](http://home.gna.org/jeliza/) at [![Gna](img/gna.ico) Gna!](http://gna.org/) from 2008
+* [our project homepage](home.gna.org/jeliza/wget-mirror/) at [![Gna](img/gna.ico) Gna!](http://gna.org/) from 2008
   with [homepage source code](https://github.com/freehal/freehal.github.io/tree/master/home.gna.org/jeliza).
-* [some screenshots](http://home.gna.org/jeliza/screenshots.shtml) with FreeHAL running at Ubuntu 7.04 and OS X 10.4.10.
+* [some screenshots](home.gna.org/jeliza/wget-mirror/screenshots.shtml) with FreeHAL running at Ubuntu 7.04 and OS X 10.4.10.
 * [old releases](http://download.gna.org/jeliza/) from 2008.
 
 ## Try it out
