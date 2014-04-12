@@ -29,11 +29,12 @@ A few things about how it all began:
 
 * [our project homepage](home.gna.org/jeliza/wget-mirror/) at [![Gna](img/gna.ico) Gna!](http://gna.org/) from 2008
   with [homepage source code](https://github.com/freehal/freehal.github.io/tree/master/home.gna.org/jeliza).
+  ([original URL](http://home.gna.org/jeliza/)
 * [some screenshots](home.gna.org/jeliza/wget-mirror/screenshots.shtml) with FreeHAL running at Ubuntu 7.04 and OS X 10.4.10.
 * [old releases](http://download.gna.org/jeliza/) from 2008.
-* [Version 2.2.2 (mirror)](http://freehal.github.io/mirrors/www.heise.de/download/jeliza-1155680.html)
-  at [![Heise](img/heise.ico) Heise](http://www.heise.de/)
-  ([live version](http://www.heise.de/download/jeliza-1155680.html))
+* [Version 2.2.2](http://freehal.github.io/mirrors/www.heise.de/download/jeliza-1155680.html)
+  in the [![Heise](img/heise.ico) Heise](http://www.heise.de/) software direction.
+  ([original URL](http://www.heise.de/download/jeliza-1155680.html))
 
 ## Try it out
 
