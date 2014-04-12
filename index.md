@@ -21,7 +21,7 @@ please go to [Github](https://github.com/freehal) where the current development 
 
 The source code is available under the [Gnu GPL v3](license.html), or any later version.
 
-[Discontinued]
+## Discontinued
 
 **After more than 6 years of (mostly) active development, the project has been discontinued in 2012.**
 
