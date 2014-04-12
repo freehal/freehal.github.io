@@ -21,6 +21,8 @@ please go to [Github](https://github.com/freehal) where the current development 
 
 **After more than 6 years of (mostly) active development, the project has been discontinued in 2012.**
 
+The source code is available under the [Gnu GPL v3](license.html), or any later version.
+
 ## Try it out
 
 <div class="screenshot_float"><img src="screenshots/parsetree.png" style="width: 400px; height: 169px;" /></div>
