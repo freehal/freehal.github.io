@@ -33,8 +33,8 @@ A few things about how it all began:
 * [some screenshots](home.gna.org/jeliza/wget-mirror/screenshots.shtml) with FreeHAL running at Ubuntu 7.04 and OS X 10.4.10.
 * [old releases](http://freehal.github.io/mirrors/download.gna.org/jeliza/) from 2008
   at [![Gna](img/gna.ico) Gna!](http://gna.org/).
-  ([original URL](http://download.gna.org/jeliza/))
   *This includes the Python, Perl and Qt versions!*
+  ([original URL](http://download.gna.org/jeliza/))
 * [version 2.2.2](http://freehal.github.io/mirrors/www.heise.de/download/jeliza-1155680.html)
   in the [![Heise](img/heise.ico) Heise](http://www.heise.de/) software directory.
   ([original URL](http://www.heise.de/download/jeliza-1155680.html))
