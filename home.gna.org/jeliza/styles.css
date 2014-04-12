@@ -1,0 +1,369 @@
+* {
+	margin:0pt;
+	padding:0pt;
+}
+
+body {
+	font-family:Verdana,Geneva,Arial,Helvetica,sans-serif;
+	font-size:75.01%;
+	line-height:1.6em;
+	text-align:left;
+}
+div {
+	font-size:1em;
+}
+img {
+	border:0pt none;
+}
+a, a:link a:active {
+	background-color:inherit;
+	color:#18507C;
+	text-decoration:underline;
+	font-size: 0.8em;
+}
+a:visited {
+	background-color:inherit;
+	color:#18507C;
+	text-decoration:underline;
+}
+a:hover {
+/*	background-color:#C3D4DF;*/
+	color:#385C72;
+	text-decoration:none;
+}
+body {
+	background: #dddef3 url("mini.png");
+	color: #222222;
+	padding: 0px;
+	margin: 0px;
+/*	margin:1em;*/
+}
+h1 {
+font-size:2em;
+line-height:1em;
+margin:0pt;
+}
+h2 {
+color:#104E8B;
+font-size:1.5em;
+line-height:1.3em;
+margin:0.8em 0pt 0.8em;
+text-align: center;
+}
+h3 {
+color:#104E8B;
+font-size:1.3em;
+line-height:1.3em;
+margin:0pt 0pt 0.5em;
+}
+h4 {
+color:#104E8B;
+font-size:1.2em;
+line-height:1.3em;
+margin:0pt 0pt 0.25em;
+}
+h5 {
+color:#104E8B;
+font-size:1.1em;
+line-height:1.3em;
+margin:0pt 0pt 0.25em;
+}
+h6 {
+color:#104E8B;
+font-size:1em;
+line-height:1.3em;
+margin:0pt 0pt 0.25em;
+}
+p {
+font-size:1em;
+line-height:1.4em;
+margin:0pt 0pt 1.5em;
+padding:0pt;
+}
+blockquote {
+border-left:10px solid #DDDDDD;
+margin-left:10px;
+}
+strong, b {
+font-weight:bold;
+}
+em, i {
+font-style:italic;
+}
+code, pre {
+font-family:"Courier New",Courier,monospace;
+font-size:1em;
+white-space:-moz-pre-wrap;
+}
+pre {
+background-color:#DDDDDD;
+border:1px solid #000000;
+font-size:90%;
+line-height:1.5em;
+margin:0pt 1em 1em;
+padding:0.5em;
+}
+h3 {
+padding-top:20px;
+}
+.wikitable, .prettytable {
+/*background:#F9F9F9 none repeat scroll 0%;*/
+/*border-right:1px solid #AAAAAA;*/
+border-collapse:collapse;
+empty-cells:show;
+margin:1em 1em 1em 0pt;
+}
+.wikitable th, .wikitable td, .prettytable th, .prettytable td {
+border:1px solid #AAAAAA;
+padding:0.4em;
+}
+.wikitable th, .prettytable th {
+background-color: #DDD;
+}
+.prettytable ul, .prettytable ul, .prettytable ol, .prettytable ol {
+margin:0pt;
+}
+.wikitable caption, .prettytable caption {
+font-weight:bold;
+margin-left:inherit;
+margin-right:inherit;
+}
+* html > body .clearfix {
+width:100%;
+}
+* html .clearfix {
+height:1%;
+}
+
+
+#top {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	background: #dddef3 url("top.png") no-repeat;
+	height: 110px;
+	z-index: 1;
+}
+
+.sidebar {
+	background: #fff none repeat scroll 0%;
+	border: 1px solid #AAAAAA;
+	border-collapse: collapse;
+	margin: 0px 10px 10px 0pt;
+	padding: 10px 5px 10px 5px;
+	line-height:1.6em;
+}
+
+.box {
+	background: #fff none repeat scroll 0%;
+	border: 1px solid #AAAAAA;
+	border-collapse: collapse;
+	margin: 0px 10px 10px 0pt;
+	padding: 0px 5px 10px 5px;
+	line-height:1.6em;
+}
+.boxcontainer {
+	float: right;
+	/*width: 190px;*/
+	margin: 10px;
+	font-size: 0.9em;
+}
+.box h3 {
+	margin:0pt !important;
+	padding: 5px 0 5px 0 !important;
+	text-align: center;
+}
+
+.sidebar li, .betterli {
+	list-style: none;
+	margin: 0; padding: 0;
+}
+
+.sidebar li, .betterli {
+	background: transparent url(arrow.gif) no-repeat scroll 0px 5px;
+	padding-left: 15px;
+}
+
+#sidebartop_l {
+	position: absolute;
+	left: 10px;
+	top: 120px;
+	width: 170px;
+	z-index: 3;
+	line-height: 1.4em;
+	color: #222222;
+}
+
+#sidebartop_r {
+	position: absolute;
+	right: 10px;
+	top: 120px;
+	width: 170px;
+	z-index: 3;
+	line-height: 1.4em;
+	color: #222222;
+}
+
+.contentpart {
+	margin-top: 120px;
+/*	margin-right: 10px !important; */
+	margin-right: 187px !important;
+	margin-left: 177px !important;
+	z-index: 3;
+	color: #222222;
+}
+
+.textcontentheading {
+	font-weight: bold;
+	font-size: 1.1em;
+	margin: 0px 0 -1px 0pt;
+	padding: 3px 5px 4px 1px;
+
+	background: #fff none no-repeat 0%;
+	border: 1px solid #AAAAAA;
+	border-collapse: collapse;
+	line-height:1.0em;
+	text-align: center;
+	
+	color: 555555;
+
+
+	background: url("menu-heading.png");
+	background-position: center bottom;
+
+	/*height: 20px !important;*/
+	vertical-align: middle;
+
+}
+
+.textcontent {
+	background: #fff none repeat scroll 0%;
+	border: 1px solid #AAAAAA;
+	border-collapse: collapse;
+	margin: 0px 0em 1em 0pt;
+	padding: 5px 5px 5px 5px;
+	
+	line-height: 1.4em;
+
+}
+
+.textcontent li {
+	margin-left: 20px;
+}
+
+* html .textcontent {
+	right: 287px !important;
+}
+
+* html .textcontentheading {
+	right: 287px !important;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.topic {
+	font-weight: bold;
+	font-size: 1.2em;
+}
+
+.menuheading {
+	font-weight: bold;
+	font-size: 1.1em;
+	margin: 0px 10px -1px 0pt;
+	padding: 3px 5px 4px 1px;
+
+	background: #fff none repeat scroll 0%;
+	border: 1px solid #AAAAAA;
+	border-collapse: collapse;
+	line-height:1.0em;
+	text-align: center;
+
+	color: 555555;
+
+	background: url("menu-heading.png");
+	background-position: center bottom;
+
+	/*height: 20px !important;*/
+	vertical-align: middle;
+}
+
+.jelizaeigenschaften {
+	position: absolute;
+	right: 20px;
+	top: 20px;
+	font-size: 1.5em;
+	color: #11111;
+	z-index: 4;
+	line-height: 1.2em;
+	text-align: right;
+}
+.jelizaeigenschaften a, .jelizaeigenschaften a:link .jelizaeigenschaften a:active {
+	color: whitesmoke;
+	text-decoration:none;
+}
+.jelizaeigenschaften a:visited {
+	color: whitesmoke;
+	text-decoration:none;
+}
+.jelizaeigenschaften a:hover {
+	color: whitesmoke;
+	text-decoration:none;
+}
+.jelizaeigenschaften td {
+	text-align: center;
+	padding-left: 20px;
+	width: 100px;
+}
+
+
+
+
+body {
+	line-height: 1.4em;
+}
+
+.newsseite .NewsSummaryLink a {
+	font-weight: bold;
+	font-size: 1.3em;
+	margin: 0.8em 0 0.8em 0;
+}
+
+.newsseite .NewsSummaryMorelink {
+	margin-bottom: 2em;
+}
+
+
+.prozent_100 {
+/*	position: relative;
+	left: 0;
+	margin-right: -250px;*/
+/*	width: 100%;*/
+	/*border-bottom: 1px solid white !important;*/
+	margin-bottom: -30px !important;
+}
+
+.platzhalter_tr {
+	visibility: hidden;
+	line-height: -1px !important;
+	max-height: 0% !important;
+	border: 0px solid white !important;
+}
+
+.platzhalter_tr td {
+	visibility: hidden;
+	line-height: -1px !important;
+	max-height: 0% !important;
+	border: 0px solid white !important;
+}
+
+
+
+
+
+b {
+	font-style: normal;
+/*	color: #101E3B;*/
+	color: black;
+}
+

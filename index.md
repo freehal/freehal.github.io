@@ -19,9 +19,12 @@ You can find the source code in the following Github repositories of Tobias Schu
 please go to [Github](https://github.com/freehal) where the current development happens. You can also find out more about FreeHAL at our
 [Wikipedia](http://en.wikipedia.org/wiki/FreeHAL) and [Facebook](http://www.facebook.com/FreeHAL) page.
 
-**After more than 6 years of (mostly) active development, the project has been discontinued in 2012.** [This is how it all began](http://home.gna.org/jeliza/).
-
 The source code is available under the [Gnu GPL v3](license.html), or any later version.
+
+**After more than 6 years of (mostly) active development, the project has been discontinued in 2012.** A few things about how it all began:
+
+* [Old project homepage](http://home.gna.org/jeliza/) from 2008 with [homepage source code](https://github.com/freehal/freehal.github.io/tree/master/home.gna.org/jeliza).
+* [Old releases](http://download.gna.org/jeliza/) from 2008.
 
 ## Try it out
 
