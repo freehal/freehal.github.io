@@ -19,6 +19,8 @@ You can find the source code in the following Github repositories of Tobias Schu
 please go to [Github](https://github.com/freehal) where the current development happens. You can also find out more about FreeHAL at our
 [Wikipedia](http://en.wikipedia.org/wiki/FreeHAL) and [Facebook](http://www.facebook.com/FreeHAL) page.
 
+**After more than 6 years of (mostly) active development, the project has been discontinued in 2012.**
+
 ## Try it out
 
 <div class="screenshot_float"><img src="screenshots/parsetree.png" style="width: 400px; height: 169px;" /></div>
